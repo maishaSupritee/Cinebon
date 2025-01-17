@@ -22,7 +22,9 @@ We are Group 3, a dynamic team of 4 Computing Science students from Simon Fraser
 - API: TMDB API
 
 
-### See our  [![Demo](https://img.youtube.com/vi/vZ53S-FjCyE/0.jpg)](https://www.youtube.com/watch?v=vZ53S-FjCyE)
+### See our App Demo:
+
+[![Demo](https://img.youtube.com/vi/vZ53S-FjCyE/0.jpg)](https://www.youtube.com/watch?v=vZ53S-FjCyE)
 
 
 ## Authors
